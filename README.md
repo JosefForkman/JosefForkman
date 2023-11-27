@@ -10,7 +10,7 @@ You can ask me anything related to front-end and web design. I will be super hap
 # 📫 How to reach me:
 You can reach me on one of these ways. Perhaps we can take a fika 🥨 and talk about web development and the future of AI.  
 -	Josef.forkman@telia.com
--	https://www.linkedin.com/in/josef-forkman/
+-	[Linkedin](https://www.linkedin.com/in/josef-forkman/)
 -	+46 72 700 82 22 (answer only on sms) 
 
 
